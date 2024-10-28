@@ -25,3 +25,7 @@ Eg : marks[0] = sc.nextInt(); //here sc is scanner object
 In Java , Arrays are reference data types so we can pass arrays from multiple functions and it will be just modifying the actual array.
 
 In case of Linear search the time complexity is O(n)
+
+
+Binary Search
+Arrays are already sorted
