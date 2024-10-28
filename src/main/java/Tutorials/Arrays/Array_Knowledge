@@ -1,0 +1,27 @@
+
+Array is a data Structure in which same type of data is stored in contiguous memory locations.
+Array indexes are based on zero based indexing.
+
+
+--Operations on Arrays :
+
+Create
+Output
+Read
+Update
+
+
+
+Create Arrays:
+
+Datatype arrayName[] = new Datatype[size];
+Arrays are static means once we have declared a array size it cannot be changed later on.
+
+how to take inputs from the array
+arrayelement  = sc.nextInt();
+Eg : marks[0] = sc.nextInt(); //here sc is scanner object
+
+//Passing Array as Argument
+In Java , Arrays are reference data types so we can pass arrays from multiple functions and it will be just modifying the actual array.
+
+In case of Linear search the time complexity is O(n)
