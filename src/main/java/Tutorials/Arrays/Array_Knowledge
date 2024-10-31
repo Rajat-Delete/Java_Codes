@@ -29,3 +29,7 @@ In case of Linear search the time complexity is O(n)
 
 Binary Search
 Arrays are already sorted
+TimeComplexity of Binary Search is O(logn)
+
+
+In a array of Size n there exists (n*(n+1))/2 Subarrays.
